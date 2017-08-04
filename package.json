@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nuberion/personal-experiments/issues"
   },
-  "homepage": "https://github.com/nuberion/personal-experiments#readme"
+  "homepage": "https://github.com/nuberion/personal-experiments#readme",
+  "dependencies": {
+    "antlr4": "4.7.0"
+  }
 }
