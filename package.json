@@ -1,8 +1,7 @@
 {
   "name": "personal-experiments.git",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Personal experiments",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +10,8 @@
     "url": "git+https://github.com/nuberion/personal-experiments.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Johann Grabner",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nuberion/personal-experiments/issues"
   },
