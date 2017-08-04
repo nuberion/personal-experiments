@@ -1,0 +1,20 @@
+{
+  "name": "personal-experiments.git",
+  "version": "1.0.0",
+  "description": "Personal experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuberion/personal-experiments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuberion/personal-experiments/issues"
+  },
+  "homepage": "https://github.com/nuberion/personal-experiments#readme"
+}
